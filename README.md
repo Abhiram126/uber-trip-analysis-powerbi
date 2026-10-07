@@ -78,7 +78,7 @@ A star-schema approach was used to organize the data model:
 | **Calendar Table** | Date and day analysis |
 | **Dynamic Measure Table** | Dynamic metric selection |
 
-![Data Model](C:\Users\abhir\Pictures\Screenshots\Screenshot 2026-10-07 214049.png)
+![Data Model](screenshots/Screenshot%20(1).png)
 
 ---
 
@@ -135,7 +135,7 @@ The Overview Analysis page gives a high-level view of Uber's operational and fin
 - Most Frequent Drop-off Point
 - Farthest Trip
 
-![Overview Dashboard](screenshots/overview-analysis.png)
+![Overview Dashboard](screenshots/Screenshot%20(2).png)
 
 ### 2. Time Analysis
 
@@ -150,7 +150,7 @@ The Time Analysis page focuses on booking patterns across different times and da
 
 This analysis helps identify peak and off-peak demand periods and supports better driver scheduling and operational planning.
 
-![Time Analysis Dashboard](screenshots/time-analysis.png)
+![Time Analysis Dashboard](screenshots/Screenshot%20(3).png)
 
 ### 3. Details
 
@@ -168,7 +168,7 @@ The Details page provides a granular view of individual trip records.
 - Booking Value
 - Pickup Hour
 
-![Details Dashboard](screenshots/details.png)
+![Details Dashboard](screenshots/Screenshot%20(4).png)
 
 ---
 
@@ -233,12 +233,14 @@ uber-trip-analysis-powerbi/
 ├── Uber_Analysis_25.pbix
 ├── Uber Trip Details.xlsx
 ├── uber Location Table.xlsx
+├── uber Problem Statement.docx
+├── Uber Trip Data Analysis CASE STUDY PPT 2.pptx
 │
 └── screenshots/
-    ├── overview-analysis.png
-    ├── time-analysis.png
-    ├── details.png
-    └── data-model.png
+    ├── Screenshot (1).png
+    ├── Screenshot (2).png
+    ├── Screenshot (3).png
+    └── Screenshot (4).png
 ```
 
 ---
@@ -251,7 +253,7 @@ B.Tech – Computer Science (AI/ML)
 **Connect with me**
 
 - [GitHub](https://github.com/Abhiram126)
-- [LinkedIn](https://www.linkedin.com/in/abhiram-chowdary-nallamothu-12714629b/?isSelfProfile=true)
+- [LinkedIn](https://www.linkedin.com/in/nallamothu-abhiram-chowdary-12714629b)
 
 ---
 
