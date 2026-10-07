@@ -251,7 +251,7 @@ B.Tech – Computer Science (AI/ML)
 **Connect with me**
 
 - [GitHub](https://github.com/Abhiram126)
-- [LinkedIn](https://www.linkedin.com/in/nallamothu-abhiram-chowdary-12714629b)
+- [LinkedIn](https://www.linkedin.com/in/abhiram-chowdary-nallamothu-12714629b/?isSelfProfile=true)
 
 ---
 
