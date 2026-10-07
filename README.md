@@ -78,7 +78,7 @@ A star-schema approach was used to organize the data model:
 | **Calendar Table** | Date and day analysis |
 | **Dynamic Measure Table** | Dynamic metric selection |
 
-![Data Model](screenshots/Screenshot1.png)
+![Data Model](screenshots/screenshot1.png)
 
 ---
 
