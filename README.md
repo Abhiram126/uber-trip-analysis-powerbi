@@ -135,7 +135,7 @@ The Overview Analysis page gives a high-level view of Uber's operational and fin
 - Most Frequent Drop-off Point
 - Farthest Trip
 
-![Overview Dashboard](screenshots/Screenshot%20(2).png)
+![Overview Dashboard](screenshots/screenshot2.png)
 
 ### 2. Time Analysis
 
@@ -150,7 +150,7 @@ The Time Analysis page focuses on booking patterns across different times and da
 
 This analysis helps identify peak and off-peak demand periods and supports better driver scheduling and operational planning.
 
-![Time Analysis Dashboard](screenshots/Screenshot%20(3).png)
+![Time Analysis Dashboard](screenshots/screenshot3.png)
 
 ### 3. Details
 
@@ -168,7 +168,7 @@ The Details page provides a granular view of individual trip records.
 - Booking Value
 - Pickup Hour
 
-![Details Dashboard](screenshots/Screenshot%20(4).png)
+![Details Dashboard](screenshots/screenshot4.png)
 
 ---
 
@@ -253,7 +253,7 @@ B.Tech – Computer Science (AI/ML)
 **Connect with me**
 
 - [GitHub](https://github.com/Abhiram126)
-- [LinkedIn](https://www.linkedin.com/in/nallamothu-abhiram-chowdary-12714629b)
+- [LinkedIn](https://www.linkedin.com/in/abhiram-chowdary-nallamothu-12714629b/?isSelfProfile=true)
 
 ---
 
